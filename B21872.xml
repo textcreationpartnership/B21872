@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts for the utter abolishing of bishops out of the churches of England and Scotland with a motion to the House for the order for church-government by a better way.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21872</idno><idno type="EEBO-CITATION">12114515</idno>
+  <idno type="VID">197013</idno>
+  <idno type="EEBO-PROQUEST">2240924788</idno>
+  
+            <idno type="STC">Wing E1163</idno>
+            <idno type="OCLC">12114515</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E87, no 8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts for the utter abolishing of bishops out of the churches of England and Scotland with a motion to the House for the order for church-government by a better way.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Bishops.</term>
+               <term type="corporate_name">Church of Scotland --  Bishops.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197013:1"/>
+            <p> ACTS FOR The utter abolishing of Bishops out of the Churches of ENGLAND and SCOTLAND.</p>
+            <p>WITH A Motion to the House for the Order for Church-Government by a better Way.</p>
+            <p>LONDON, Printed for <hi>Thomas Watson.</hi> 1643.</p>
+            <pb facs="tcp:197013:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb n="1" facs="tcp:197013:2"/>
+            <head>The Act of the generall Assembly in Scotland for the abolishing of Bishops in that Kingdome.</head>
+            <p>THe Kings Majestie having declared, that it is his Royall will and pleasure, that all questions about Religion and and matters ecclesiasticall, be detetmined by the Church: having also by publique Proclamation indicted this free Nationall Assembly, for setling the present distractions of this Church; and for establishing a perfect peace, against such divisi<g ref="char:EOLhyphen"/>ous and discords, as have been sore displeasing to his Majestie, and grievous to all his Majesties good subjects, And now his Maje<g ref="char:EOLhyphen"/>sties Commissioner <hi>Iohn E.</hi> of <hi>Traquair,</hi> instructed and authori<g ref="char:EOLhyphen"/>zed with<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s full Commission, being present and sitting in this As<g ref="char:EOLhyphen"/>sembly, now fully conveened and orderly constitute, in all the members thereof, according to the order of this Church, having at large declared his Majesties xeal to the reformed Religion; and his Koyall care, and tender affection to this Church; (where his Majestie had both his Birth and Baptisme) his great displeasure at the manifold distractions and divisions of this Church and King<g ref="char:EOLhyphen"/>dome, and his desire to have all our wounds perfectly cured, with a faire and fatherly hand. And although in the way approved by this Church, tryall hath bin taken in former Assemblies before from the Church Registers to our full satisfaction. Yet the Com<g ref="char:EOLhyphen"/>missioner making a particular inquirie, from the Members of the Assembly now solemnly conveened concerning the reall and true causes, of so many and great evils at this time past, and so sore troubling the peace of the Church and Kingdome. It was repre<g ref="char:EOLhyphen"/>sented to his Majesties Commissioner by this Assembly, that be<g ref="char:EOLhyphen"/>sides many other, the main and most materiall causes were.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:197013:3"/>
+               <head>Reasons from the Assembly for the change of Church-government.</head>
+               <p n="1">1 THe pressing of this Church by Prelates with a Service-book, or Book of Common-Prayer, without direction or warrant ftom the Church, and containing besides the popish frame thereof, divers popish errors and Ceremonies; and the seeds of manifold grosse superstitions and Idolatrie: with a Book of Canons, without warrant or direction from the generall assem<g ref="char:EOLhyphen"/>bly, establishing a tyrannicall power over the Church in the per<g ref="char:EOLhyphen"/>son of Bishop; and overthrowing the whole discipline and go<g ref="char:EOLhyphen"/>vernment of the Church by assemblies: with a Book of conse<g ref="char:EOLhyphen"/>cration and Ordination, without warrant of authority civill or ecclesiasticall, appointing offices in the house of God, which are not wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranted by the word of God, and repugnant to the Disci<g ref="char:EOLhyphen"/>pline and Acts of our Church: with the Commissicn erected without the consent of the Church, subverting the Jurisdiction and ordinarie Judicatories of this Church; and giving to persons meerly Ecclesiasticall the power of both Swords; and to per<g ref="char:EOLhyphen"/>sons meerly civill, the power of the Keyes and Church Cen<g ref="char:EOLhyphen"/>sures.</p>
+               <p n="2">2. A second cause was the Articles of <hi>Perth. viz.</hi> Obser<g ref="char:EOLhyphen"/>vation of Festivall dayes, kneeling at the Communion, Confir<g ref="char:EOLhyphen"/>mation, Administration of the Sacraments in private places, which were brought in by a civill Assembly; and are contrary to the confession of faith 1590 as it was meant and subscribed in <hi>Anno.</hi> 1580. and divers times since to the order and constituti<g ref="char:EOLhyphen"/>on of this Church.</p>
+               <p n="3">3. A third cause was, the change of the Government of the Church, from the Assemblies of the Church to the persons of Church-men, usurping the priority and power over their bre<g ref="char:EOLhyphen"/>thren by the way, and under the name of Episcopall govern<g ref="char:EOLhyphen"/>ment against the confession▪ <hi>Anno.</hi> 1580. Against the order set down in the book of policy, and against the intentions and Con<g ref="char:EOLhyphen"/>stitutions of this Church from the beginning.</p>
+               <p n="4">4. A fourth cause was the civill places and power of Church men, their sitting in Session; Counsell, and Exchequer, their rid<g ref="char:EOLhyphen"/>ding, sitting and voting in Parliament; and their sitting in the Bench as Justices of Peace, which according to the constitutions
+<pb n="3" facs="tcp:197013:3"/> of the Church are incompatible with their spirituall function, do tend to the hindrance of the Ministry.</p>
+               <p>A fifth cause was, the keeping and authorizing of corrupt As<g ref="char:EOLhyphen"/>semblies at <hi>Linlithgow</hi> 1606. 1608. at <hi>Glasgow</hi> 1610. at <hi>Aber<g ref="char:EOLhyphen"/>dene</hi> 1616. at S. <hi>Andrews</hi> 1617. at <hi>Perth</hi> 1618. which are all null and unlawful, as being called and constitute quite contrary to the order and constitutions of this Church received &amp; practised ever since the reformation of Religion, &amp; labouring to introduce inno<g ref="char:EOLhyphen"/>vations in this Church, against the order &amp; religion established.</p>
+               <p>A sixt cause was, the want of lawfull and free generall Assem<g ref="char:EOLhyphen"/>blies, rightly constitute of Pastors, Doctors and Elders yeerly or oftner <hi>pro re nata,</hi> according to the liberty of this Church, expressed in the <hi>Book of Policy,</hi> and acknowledged in the Act of Parliament 1592. Which his Majesties Commissioner having heard patiently; and examined particularly; all objections to the contrary being answered to the full. The whole Assembly with expresse consent of his Majesties Commissioner, in one heart and voice did declare, that these and such other proceedings, from the neglect and breach of the <hi>Nationall Covenant</hi> of this Church &amp; Kingdom made in <hi>An.</hi> 1580. have been indeed the true and main cause of all our evils and distractions; and therefore ordains, ac<g ref="char:EOLhyphen"/>cording to the constitutions of the generall Assemblies of this Church, and upon the grounds respective above-specified, that the foresaid <hi>Service-Booke, Book of Canons and Ordination,</hi> and <hi>High Commission</hi> be rejected still▪ that the <hi>Articles of Perth</hi> be no more practised: that Episcopall government and the civill places and power of Church-men be holden still as unlawfull in this Church: that the above-named pretended Assemblies at <hi>Lin<g ref="char:EOLhyphen"/>lithgow</hi> 1606▪ 1608. at <hi>Glasgow</hi> 1610. an <hi>Aberden</hi> 1616. at S. <hi>Andrews</hi> 1617. at <hi>Perth</hi> 1618. be hereafter accounted as null and of none effect; and that for preservation of Religion, and preventing all such evils in time coming, <hi>Generall Assemblies</hi> rightly constitute, as the perfect and compent Judge of all mat<g ref="char:EOLhyphen"/>ters Ecclesiasticall hereafter be kept yeerly, and oftener, as occa<g ref="char:EOLhyphen"/>sion and necessity shall require, the necessity being first remon<g ref="char:EOLhyphen"/>strate to his Majesty by humble supplication; as also of these oc<g ref="char:EOLhyphen"/>casionall Assemblies, that Church-Sessions, Presbyteries, and Synodall Assemblies, constitute and ordained according to the <hi>Book of Policies,</hi> and constitutions of this Church, be also here<g ref="char:EOLhyphen"/>after kept as occasion and necessity shall require.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:197013:4"/>
+               <head>The Heads of the Bill in Parliament for abolishing of Bishops in ENGLAND.</head>
+               <p>VVHereas the government of the Church of <hi>England</hi> by Archbishops, Bishops, Chancellours and Com<g ref="char:EOLhyphen"/>missaries, Deanes, Archdeacons, and other their Ecclesiasticall Officers, hath been found by long experience to be a great impediment to the perfect reformation and growth of Religion, It is therefore enacted from henceforth there shall be no Archbishops, Bishops, &amp;c, or any their Officers within this Church and Kingdome: and that if any person shall take upon him to exercise any such Office, he shall incurre a <hi>Prae<g ref="char:EOLhyphen"/>munire</hi> according to the Statute of 16. <hi>Ric.</hi> 2. And that all Man<g ref="char:EOLhyphen"/>nors, Lands, Rectories, Impropriations, Houses, Rents, Services, and other Hereditaments whatsoever of the said Archbishops. Bi<g ref="char:EOLhyphen"/>shops, Deans, Deacons and Chapters, Archdeacons, Prebendaries, Canons, and Pettie-Canons, which they or any of them have in the right of the said Churches and dignities, shall be disposed of and ordered in such manner and form as the Kings most excellent Ma<g ref="char:EOLhyphen"/>jesty, the Lords Temporall and Commons shall appoint. And it is therein further enacted, that all Ecclesiasticall Iurisdiction fit to be exercised in the Church and Kingdome of <hi>England,</hi> shall be committed to such a number of persons, and in such manner as by this present Parliament shall be appointed.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:197013:4"/>
+               <head>A Motion to the House concerning Church Government.</head>
+               <p>EVery severall Shire of <hi>England</hi> and <hi>Wales,</hi> to be a severall Circuit or Diocesse, for the Eclesiasticall Iurisdiction, excepting <hi>Yorkeshire,</hi> which is to be divided into three.</p>
+               <p n="2">2. A constant Presbyterie of twelve choise Divines to be selected in every Shire or Diocesse.</p>
+               <p n="3">3. A constant President to be established over this Presbyterie.</p>
+               <p n="4">4. This President in each Diocesse to ordain, suspend, deprive, degrade, Excommunicate, by and with the consent and assistance of seven Divines of his Presbytery then present and not otherwise.</p>
+               <p n="5">5. The times of ordination throughout the land to be foure times every yeare, <hi>viz,</hi> the first of <hi>May,</hi> the first of <hi>August,</hi> the first of <hi>November,</hi> and the first of <hi>February.</hi>
+               </p>
+               <p n="6">6. Every President constantly to reside within his Di<g ref="char:EOLhyphen"/>ocesse, in some one prime or chiefe City or Towne with in his Diocesse, as in particular.</p>
+               <p n="7">7. Every President to have one speciall particular con<g ref="char:EOLhyphen"/>gregation, to be chosen out of the most convenient for distance of place, from his chiefe residence, and the rich<g ref="char:EOLhyphen"/>est in value that may be had, where he shall duely preach unlesse he be lawfully hindered, and then he shall take care that his cure be well supplyed by another.</p>
+               <p n="8">8. No President shall remove o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be translated from the Presbytery which he shall first undertake.</p>
+               <p n="9">9. Vpon every death, or other avoidance of a presi<g ref="char:EOLhyphen"/>dent, the King to grant a <hi>Conge d'elire</hi> to the whole Cler<g ref="char:EOLhyphen"/>gy of that Diocesse, and they to present three of the Pres<g ref="char:EOLhyphen"/>byters aforesaid, and the King to choose and nominate whom he please of them.</p>
+               <p n="10">
+                  <pb n="6" facs="tcp:197013:5"/> 10. The first Presbyters of every Shire to be named by the Parliament, and afterwards upon the death of any Presbyter, the remayning Presbyter to chuse another out of the Parish Ministers of that Shire, and this to bee done within one month after such death or avoidance.</p>
+               <p n="11">11 No President or Clergie-man to exercise or have any <hi>Temporall Office,</hi> or <hi>secular employmwnt,</hi> but only, for the present, to hold and keepe the probate of wills, untill the Parliament shall otherwise resolve.</p>
+               <p n="12">12. The President once a year (at Midsummer) to summon a <hi>Diocesan Synod,</hi> there to heare and by generall vote, to determine all such matter of scandall in Life and Doctrine among the Clergie-men, as shall be presented unto them.</p>
+               <p n="13">13. Every three yeares, a <hi>Nationall Synod to be,</hi> which for persons shall consist of all the Presidents in the Land and of two Presbiters to be chosen by the rest out of each Presbitery, and of two <hi>Clerkes</hi> to be chosen out of every Dioces, by the <hi>Clergie</hi> thereof.</p>
+               <p n="14">14. This <hi>Nationall Synod</hi> to make and ordaine <hi>Canons</hi> of the <hi>Governement</hi> of the <hi>Church,</hi> but they not to binde untill tey be confirmed by Parliament.</p>
+               <p n="15">15. Every President over and above the benefice aforesaid, a certaine constant rent allowed and allotted proportionall to the Diocesse wherein he is to officiate, that is to say, every Presbyter to have a constant yearely profit above his benefice.</p>
+               <p n="16">16. As for the revenue of the Bishops, Deanes, and Chap<g ref="char:EOLhyphen"/>ters, &amp;c. a strict survey to be taken of all their rents and profits, and the same to be represented at the beginning of our next con<g ref="char:EOLhyphen"/>vention, and in the mean time no Lease to be renewed, nor tim<g ref="char:EOLhyphen"/>ber to be felled.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
